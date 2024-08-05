@@ -58,9 +58,9 @@
     "jest": "^25.1.0",
     "prettier": "^2.0.5",
     "react": "~16.9.0",
-    "react-native": "^0.62.2",
+    "react-native": "^0.74.4",
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-reanimated": "^1.8.0",
+    "react-native-reanimated": "^3.14.0",
     "release-it": "^12.6.3",
     "typescript": "^3.7.5"
   },
